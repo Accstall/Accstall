@@ -1,5 +1,7 @@
 # 🛒 Accstall — Social Media Account Marketplace
 
+> 🇹🇷 Türkçe versiyon için: [Accstall Türkçe](https://github.com/Accstall/accstall-tr)
+
 **Buy verified social media accounts with instant automated delivery.**
 
 [🌐 Visit Accstall](https://accstall.com) · [📋 FAQ](https://accstall.com/en/faq) · [📞 Contact Support](https://accstall.com/en/contact) · [🐦 Twitter](https://x.com/accstallcom)
